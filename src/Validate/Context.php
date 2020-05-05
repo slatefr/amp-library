@@ -80,6 +80,7 @@ class Context
         'amp-audio' => 'https://cdn.ampproject.org/v0/amp-audio-0.1.js',
         'amp-brightcove' => 'https://cdn.ampproject.org/v0/amp-brightcove-0.1.js',
         'amp-carousel' => 'https://cdn.ampproject.org/v0/amp-carousel-0.1.js',
+        'amp-consent' => 'https://cdn.ampproject.org/v0/amp-consent-0.1.js',
         'amp-dailymotion' => 'https://cdn.ampproject.org/v0/amp-dailymotion-0.1.js',
         'amp-facebook' => 'https://cdn.ampproject.org/v0/amp-facebook-0.1.js',
         'amp-fit-text' => 'https://cdn.ampproject.org/v0/amp-fit-text-0.1.js',
