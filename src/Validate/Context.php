@@ -93,6 +93,7 @@ class Context
         'amp-list' => 'https://cdn.ampproject.org/v0/amp-list-0.1.js',
         'amp-pinterest' => 'https://cdn.ampproject.org/v0/amp-pinterest-0.1.js',
         'amp-soundcloud' => 'https://cdn.ampproject.org/v0/amp-soundcloud-0.1.js',
+        'amp-sticky-ad' => 'https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js',
         'amp-twitter' => 'https://cdn.ampproject.org/v0/amp-twitter-0.1.js',
         'amp-user-notification' => 'https://cdn.ampproject.org/v0/amp-user-notification-0.1.js',
         'amp-vine' => 'https://cdn.ampproject.org/v0/amp-vine-0.1.js',
