@@ -92,6 +92,7 @@ class Context
         'amp-lightbox' => 'https://cdn.ampproject.org/v0/amp-lightbox-0.1.js',
         'amp-list' => 'https://cdn.ampproject.org/v0/amp-list-0.1.js',
         'amp-pinterest' => 'https://cdn.ampproject.org/v0/amp-pinterest-0.1.js',
+        'amp-position-observer' => 'https://cdn.ampproject.org/v0/amp-position-observer-0.1.js',
         'amp-soundcloud' => 'https://cdn.ampproject.org/v0/amp-soundcloud-0.1.js',
         'amp-sticky-ad' => 'https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js',
         'amp-twitter' => 'https://cdn.ampproject.org/v0/amp-twitter-0.1.js',
