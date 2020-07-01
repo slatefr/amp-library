@@ -77,6 +77,7 @@ class Context
         'amp-ad' => 'https://cdn.ampproject.org/v0/amp-ad-0.1.js',
         'amp-analytics' => 'https://cdn.ampproject.org/v0/amp-analytics-0.1.js',
         'amp-anim' => 'https://cdn.ampproject.org/v0/amp-anim-0.1.js',
+        'amp-animation' => 'https://cdn.ampproject.org/v0/amp-animation-0.1.js',
         'amp-audio' => 'https://cdn.ampproject.org/v0/amp-audio-0.1.js',
         'amp-brightcove' => 'https://cdn.ampproject.org/v0/amp-brightcove-0.1.js',
         'amp-carousel' => 'https://cdn.ampproject.org/v0/amp-carousel-0.1.js',
